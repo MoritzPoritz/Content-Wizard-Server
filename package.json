@@ -1,0 +1,15 @@
+{
+  "name": "content-wizard-server",
+  "version": "1.0.0",
+  "description": "This is the node.js based server for the content wizard project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+  },
+  "author": "Moritz Stoll",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
